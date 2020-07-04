@@ -1,2 +1,2 @@
-# addydiary
-A Simple webapp like diary where you can save some things private and also share it to the world
+# Memoris
+Webapp which can be used as personal blog or diary.
